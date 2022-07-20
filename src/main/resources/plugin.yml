@@ -1,0 +1,7 @@
+name: OBDPlugin
+version: '${project.version}'
+main: theonlynoob.obdplugin.OBDPlugin
+api-version: 1.12
+authors:
+  - the only noob
+description: OBD
